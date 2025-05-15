@@ -36,6 +36,10 @@ You will be asked to input:
 
 ---
 
+![Screenshot 2025-05-15 141025](https://github.com/user-attachments/assets/f9e08321-4bba-4890-b6c6-d4ad06c93441)<br>
+![Screenshot 2025-05-15 141058](https://github.com/user-attachments/assets/44f6ca20-35c0-451c-b752-e73df9d80f40)<br>
+![Screenshot 2025-05-15 141130](https://github.com/user-attachments/assets/afbfdc12-1298-4591-a676-4bb3b6e56e7d)
+
 ## 🧑‍💻 How to Use
 
 > ⚠️ This is a **single `.cpp` file**. No external libraries or setup required.
@@ -48,9 +52,6 @@ Save the code as, for example:
 scheduler.cpp
 
 
-![Screenshot 2025-05-15 141025](https://github.com/user-attachments/assets/f9e08321-4bba-4890-b6c6-d4ad06c93441)<br>
-![Screenshot 2025-05-15 141058](https://github.com/user-attachments/assets/44f6ca20-35c0-451c-b752-e73df9d80f40)<br>
-![Screenshot 2025-05-15 141130](https://github.com/user-attachments/assets/afbfdc12-1298-4591-a676-4bb3b6e56e7d)
 
 
 
